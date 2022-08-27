@@ -19,7 +19,7 @@ Very Simple Bot Auto Filter bot
 
 #### Deploy in your VPS
 ````bash
-git clone https://github.com/DKBOTx/TovinoBotV3
+git clone https://github.com/scroogex/adgfilter2
 cd /TovinoBotV3
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
